@@ -1,1 +1,1 @@
-Analog Electronics 1 - Assignment 3.1 - Dong Nguyen
+Analog Electronics 1 - Assignment 3 - Dong Nguyen
