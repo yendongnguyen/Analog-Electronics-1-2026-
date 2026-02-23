@@ -1,6 +1,7 @@
 Dong Nguyen - IT24SP - Assignment 3.2
-### Capacitor filter behaviour
-- Without a capacitor: Vout is pulsating DC (full-wave rectified).
-- Adding a 470uF capacitor smooths the waveform.
-- The capacitor charges near the peak and discharges slowly through the load resistor.
-- Ripple frequency = 2 * fin = 120Hz.
+### Behaviour analysis
+- Vin is a sinusoidal signal with 100V peak at 50Hz.
+- The circuit performs full-wave rectification: negative half cycles are flipped positive.
+- Ripple frequency = 2 * fin = 100Hz.
+- Because R2 and R3 form a voltage divider (2.2k / 2.2k),
+  Vout_peak ≈ 0.5 * Vin_peak ≈ 50V, which matches the simulation.
