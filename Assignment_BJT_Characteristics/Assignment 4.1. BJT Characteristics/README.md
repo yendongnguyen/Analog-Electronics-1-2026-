@@ -24,6 +24,7 @@ In the active region, IC remains almost constant with increasing VCE.
 At low VCE, the transistor enters saturation, and IC decreases.
 
 Part B
+
 The IC–IB relationship is approximately linear in the active region. The collector current increases proportionally with the base current. However, the slope is not perfectly constant, indicating that β slightly changes as the collector current increases.
 
 IC is approximately proportional to IB in the active region.
